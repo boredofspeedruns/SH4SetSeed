@@ -18,6 +18,6 @@
 ## How to Install / How to Use
 
 Easy.
-Copy the d3d8.dll, og_d3d8.dll, sh4setseed.dll and sh4setseed.ini to your SILENT HILL 4 folder.
-Ensure that sh4setseed.ini has Enabled set to 1.
-Enjoy!
+1. Copy the d3d8.dll, og_d3d8.dll, sh4setseed.dll and sh4setseed.ini to your SILENT HILL 4 folder.
+2. Ensure that sh4setseed.ini has Enabled set to 1.
+3. Enjoy!
