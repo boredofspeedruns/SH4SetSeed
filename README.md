@@ -3,6 +3,7 @@
 ## Features
 
 - Adds an overlay with an onscreen timer for verification purposes.
+- Displays Eileen's HP, Curse and Distance.
 - Controls two RNG systems via custom seeds:
   - **Hospital L1/R1 elevator doors**
   - **One Truth boss**
